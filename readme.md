@@ -12,6 +12,6 @@ ce qu'est le design pattern observer:
 ça permet une clarté  et une facilité de codage supplémentaire.
 
 ce qu'est le temporal coupling:
-Cela consiste à faire appel à des éléments d'une classe dans un ordre bien défini.
+-Cela consiste à faire appel à des éléments d'une classe dans un ordre bien défini.
 afin d'améliorer leur communication.
 
